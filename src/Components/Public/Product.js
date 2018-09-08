@@ -25,7 +25,7 @@ class Product extends React.Component {
 
         return (
             <div>
-                <Thumbnail className="product-item" alt="171x180">
+                <Thumbnail className="product-item" src="/images/products/tiki_camera_01.jpg" alt="171x180">
                     {this.state.data.inventory_name}
                     <p className="product-item-price">
                         <span className="sale-price">
