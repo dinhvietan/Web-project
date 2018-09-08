@@ -1,0 +1,82 @@
+
+.primary-color {
+  background-color: #9a0007;
+  color: white !important;
+}
+
+.second-color {
+  background-color:  #280680;
+}
+
+
+.page-panel, .panel-heading, .panel-body{
+  background-color: white !important;
+  color: black;
+  border-radius: 0;
+  border: none !important;
+  padding: 0;
+}
+tablt, tr, td, th{
+  background-color: white;
+  border: none !important;
+}
+
+
+.user-list tr:nth-child(even):hover {
+  background-color: #9162e4;
+}
+
+.btn, .btn-default  {
+  background-color: #280680 ;
+  color: white;
+  padding: 0 15px 0 15px;
+  height: 37px;
+  text-transform: uppercase;
+  border: none;
+  margin: 0 15px 15px 0;
+}
+.btn:hover {
+  background-color: #9162e4;
+}
+
+.btn:active {
+  background-color: #280680;
+}
+
+.panel-title, .panel-body{
+  padding:  15px;
+}
+
+td:hover{
+  background-color: #9162e4;
+}
+
+.list-group-item{
+  border: none;
+}
+
+
+.panel-title, .breadcrumb{
+  background-color: #5e35b1 !important;
+  color: white;
+}
+
+Button a{
+  text-decoration: none !important; 
+  color: white;
+}
+
+.breadcrumb{
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+.breadcrumb a{
+  color: white;
+}
+
+@media (max-width: 767px){
+  .dropdown a{
+    color:white !important;
+  }
+}

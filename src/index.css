@@ -1,0 +1,8 @@
+*{
+  padding: 0;
+  margin: 0;
+  outline: none !important;
+  font-family: 'Nunito','Noto Sans', sans-serif;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans|Nunito');

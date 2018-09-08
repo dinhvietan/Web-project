@@ -1,0 +1,29 @@
+.app-product .panel-body {
+    padding: 0;
+}
+.app-product {
+    border: 0;
+}
+
+.product-item {
+    width: 250px !important;
+    font-size: 15px;
+    height: 400px;
+}
+
+.product-item-price span {
+    margin-left: 3px;
+}
+
+.product-item-price .real-price {
+    opacity: 0.4;
+    text-decoration: line-through;
+}
+
+.product-item-price .saleoff-price {
+    color: red;
+}
+
+.product-item-contact {
+    margin-right: 15px;
+}

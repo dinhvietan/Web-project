@@ -1,0 +1,10 @@
+.app-login-form {
+    /*width: 450px;*/
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+}
+.btn-signin {
+    width: 100% !important;
+    margin: 0 0 0 0;
+}
